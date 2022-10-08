@@ -5,7 +5,7 @@ This project is to maintain online banking system to help both employees and cus
 Database : MySql
 Webinterface : HTML with PHP.
 
-Requirements: mysql, Xampp server with mysql, php and phpmyadmin setup, VSCode ( recommended to code html and php) 
+Requirements: mysql, Xampp server with mysql, php and phpmyadmin setup, VSCode IDE ( recommended to code html and php) 
 
 Download link for Xampp:
 https://www.apachefriends.org/download.html
