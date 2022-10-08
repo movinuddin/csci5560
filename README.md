@@ -11,7 +11,7 @@ Download link for Xampp:
 https://www.apachefriends.org/download.html
 After installing, xampp, in xampp control panel, start Apache and mysql and we are ready.
 
-1. Create database and create different tables like employee, customer in mysql(phpmyadmin) using db table queries that we have in db file ( banking_schema.sql)
+1. Create database and create different tables like employee, customer in mysql(phpmyadmin) using db table queries that we have in db file ( bankingschema.sql)
 Link to access phpmyadmin  :  http://localhost/phpmyadmin/
 
 2. In xampp path, there is working folder htdocs. Create a folder within htdocs and have two files inside
