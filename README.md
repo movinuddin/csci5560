@@ -33,5 +33,5 @@ Here, contact is the folder inside htdocs.
 
 8. Customer.html page has box to provide account number. Account balance will be fetched once clicked on submit.
 
-9. Check table in phpmyadmin or mysql workbench to see if new customer got added to the table.
+9. Check related tables in phpmyadmin or mysql workbench to see if changes got added to the table.
 
